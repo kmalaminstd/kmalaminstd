@@ -1,8 +1,7 @@
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-  <img src="https://giphy.com/embed/ZeFG00TVXs54Pw4c8e" width="100%" height="100%" class="giphy-embed">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<p><a href="https://giphy.com/stickers/css-html-indonesiasiapkerja-ZeFG00TVXs54Pw4c8e">via GIPHY</a></p>
 
 - 👋 Hi, I’m K.M. AL-AMIN
 - 👀 I’m interested in learning new technologies
