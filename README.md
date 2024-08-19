@@ -1,6 +1,7 @@
 - 👋 Hi, I’m K.M. AL-AMIN
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning javascript
+- 😃 learning PHP is also amazing 
   
 ### 📫 How to reach me ... ###
   ▶️ [Facebook](https://www.facebook.com/kmalaminstd)
