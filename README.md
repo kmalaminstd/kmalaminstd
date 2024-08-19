@@ -1,7 +1,7 @@
 
-<div id="header" align="center">
+<div id="header" align="center" width="100%">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  [![Static Badge](https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/LinkedIn-blue)
+  
 </div>
 
 - 👋 Hi, I’m K.M. AL-AMIN
