@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="[[]()](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ5ZjhmbzRwNDgzZXVzMHViNzRkcDRtdGhkb2FiZXgyYjc4azN3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" width="100"/>
+  <img src="//i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ5ZjhmbzRwNDgzZXVzMHViNzRkcDRtdGhkb2FiZXgyYjc4azN3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 </div>
 
 - 👋 Hi, I’m K.M. AL-AMIN
