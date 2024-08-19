@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning javascript
   
 ### 📫 How to reach me ... ###
-  - facebook : https://www.facebook.com/kmalaminstd
-  - email    : alaminkhanstd@gmail.com
+  - [Facebook](https://www.facebook.com/kmalaminstd)
+  - [email](alaminkhanstd@gmail.com)
 <!---
 - 💞️ I’m looking to collaborate on ...
 
