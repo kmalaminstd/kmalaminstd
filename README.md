@@ -30,4 +30,20 @@ Database   : MySQL • Firebase
 Tools      : Git • GitHub • VS Code
 
 
-<p align="left"> ▶️ Facebook: <a href="https://www.facebook.com/kmalaminstd">facebook.com/kmalaminstd</a><br/> ▶️ LinkedIn: <a href="https://www.linkedin.com/in/k-m-al-amin-std/">linkedin.com/in/k-m-al-amin-std</a><br/> ▶️ Email: <a href="mailto:alaminkhanstd@gmail.com">alaminkhanstd@gmail.com</a> </p>
+### 🤝 Connect With Me  
+
+<p align="center">
+  <a href="https://www.facebook.com/kmalaminstd" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/k-m-al-amin-std/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:alaminkhanstd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  💬 Open to collaboration, learning, and cool tech conversations
+</p>
