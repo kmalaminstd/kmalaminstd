@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
 </div>
 
-<h1 align="center">Hey, I'm K.M. AL-AMIN 👋</h1>
+<h1 align="center">Hey, I'm K.M. AL-AMIN </h1>
 
 <p align="center">
   Aspiring Full-Stack Developer • Tech Enthusiast • Lifelong Learner
