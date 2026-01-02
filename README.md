@@ -24,10 +24,10 @@
 ### 🛠️ Tech Stack  
 
 
-Frontend   : HTML • CSS • JavaScript • React
-Backend    : PHP (learning) • Node.js (exploring)
-Database   : MySQL • Firebase
-Tools      : Git • GitHub • VS Code
+Frontend   : HTML • CSS • JavaScript • React <br>
+Backend    : PHP (learning) • Node.js (exploring) <br>
+Database   : MySQL • Firebase <br>
+Tools      : Git • GitHub • VS Code <br>
 
 
 ### 🤝 Connect With Me  
