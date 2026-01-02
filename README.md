@@ -32,23 +32,10 @@ Tools      : Git • GitHub • VS Code
 
 ### 🤝 Connect With Me  
 
-<div align="center">
-  <a href="https://www.facebook.com/kmalaminstd">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/k-m-al-amin-std/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:alaminkhanstd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
 <p align="center">
-  💬 Open to collaboration, learning, and cool tech conversations
-</p>
+  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kmalaminstd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-m-al-amin-std/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaminkhanstd@gmail.com)
 
-
-<p align="center">
-  💬 Open to collaboration, learning, and cool tech conversations
 </p>
