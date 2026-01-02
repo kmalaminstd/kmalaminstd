@@ -23,7 +23,7 @@
 
 ### 🛠️ Tech Stack  
 
-```text
+
 Frontend   : HTML • CSS • JavaScript • React
 Backend    : PHP (learning) • Node.js (exploring)
 Database   : MySQL • Firebase
