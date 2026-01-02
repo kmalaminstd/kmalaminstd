@@ -28,3 +28,6 @@ Frontend   : HTML • CSS • JavaScript • React
 Backend    : PHP (learning) • Node.js (exploring)
 Database   : MySQL (basic)
 Tools      : Git • GitHub • VS Code
+
+
+<p align="left"> ▶️ Facebook: <a href="https://www.facebook.com/kmalaminstd">facebook.com/kmalaminstd</a><br/> ▶️ LinkedIn: <a href="https://www.linkedin.com/in/k-m-al-amin-std/">linkedin.com/in/k-m-al-amin-std</a><br/> ▶️ Email: <a href="mailto:alaminkhanstd@gmail.com">alaminkhanstd@gmail.com</a> </p>
