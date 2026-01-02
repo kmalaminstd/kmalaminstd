@@ -28,13 +28,3 @@ Frontend   : HTML • CSS • JavaScript
 Backend    : PHP (learning) • Node.js (exploring)
 Database   : MySQL (basic)
 Tools      : Git • GitHub • VS Code
-
-<!---
-- 💞️ I’m looking to collaborate on ...
-
---->
-
-<!---
-kmalaminstd/kmalaminstd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
