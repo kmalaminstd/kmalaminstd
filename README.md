@@ -26,7 +26,7 @@
 ```text
 Frontend   : HTML • CSS • JavaScript • React
 Backend    : PHP (learning) • Node.js (exploring)
-Database   : MySQL (basic)
+Database   : MySQL • Firebase
 Tools      : Git • GitHub • VS Code
 
 
