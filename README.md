@@ -24,7 +24,7 @@
 ### 🛠️ Tech Stack  
 
 ```text
-Frontend   : HTML • CSS • JavaScript
+Frontend   : HTML • CSS • JavaScript • React
 Backend    : PHP (learning) • Node.js (exploring)
 Database   : MySQL (basic)
 Tools      : Git • GitHub • VS Code
