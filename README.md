@@ -1,20 +1,34 @@
 
-<div id="header" align="center" width="100%">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
 </div>
 
-- 👋 Hi, I’m K.M. AL-AMIN
-- 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning JavaScript
-- 😃 learning PHP is also amazing 
-  
-### 📫 How to reach me ... ###
-  ▶️ [Facebook](https://www.facebook.com/kmalaminstd)
-  
-  ▶️ [email](alaminkhanstd@gmail.com)
+<h1 align="center">Hey, I'm K.M. AL-AMIN 👋</h1>
 
-  ▶️ [Linkedin](https://www.linkedin.com/in/k-m-al-amin-std/)
+<p align="center">
+  Aspiring Full-Stack Developer • Tech Enthusiast • Lifelong Learner
+</p>
+
+---
+
+### 🚀 About Me  
+
+- 💻 Passionate about building **modern web applications**
+- 🌱 Currently leveling up my skills in **JavaScript**
+- 🧠 Exploring **PHP** and backend fundamentals
+- 🔥 Always curious about new tools, frameworks, and best practices
+- 🎯 Goal-driven and focused on growing as a **professional developer**
+
+---
+
+### 🛠️ Tech Stack  
+
+```text
+Frontend   : HTML • CSS • JavaScript
+Backend    : PHP (learning) • Node.js (exploring)
+Database   : MySQL (basic)
+Tools      : Git • GitHub • VS Code
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 
