@@ -25,7 +25,7 @@
 
 
 Frontend   : HTML • CSS • JavaScript • React <br>
-Backend    : PHP (learning) • Node.js (exploring) <br>
+Backend    : PHP • Laravel (Learning) • Node.js (exploring) <br>
 Database   : MySQL • Firebase <br>
 Tools      : Git • GitHub • VS Code <br>
 
