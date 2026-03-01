@@ -15,7 +15,7 @@
 
 - 💻 Passionate about building **modern web applications**
 - 🌱 Currently leveling up my skills in **JavaScript**
-- 🧠 Exploring **PHP** and backend fundamentals
+- 🧠 Exploring **PHP** , **Laravel** and backend fundamentals
 - 🔥 Always curious about new tools, frameworks, and best practices
 - 🎯 Goal-driven and focused on growing as a **professional developer**
 
