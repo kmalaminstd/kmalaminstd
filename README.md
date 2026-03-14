@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJwZHJsajV2enZzdmQ5NmcxM3VxcXBoZ2QwYWZpZGxxazVjbXNkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="120"/>
 </div>
 
 <h1 align="center">Hey, I'm K.M. AL-AMIN </h1>
