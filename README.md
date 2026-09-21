@@ -4,26 +4,38 @@
 <h1 align="center">Hey, I'm K.M. AL-AMIN </h1>
 
 <p align="center">
-  Aspiring Full-Stack Developer • Tech Enthusiast • Lifelong Learner
+  Junior PHP/Laravel Developer • Tech Enthusiast • Lifelong Learner • Backend-Focused Full-Stack Developer
 </p>
 
 ---
 
 ### 🚀 About Me  
 
+I specialize in PHP and Laravel development, with hands-on experience building REST APIs, authentication systems, role-based applications, payment integrations, real-time communication features, and database-driven platforms.
+
 - 💻 Passionate about building **modern web applications**
-- 🌱 Currently leveling up my skills in **JavaScript**
-- 🧠 Exploring **PHP** , **Laravel** and backend fundamentals
 - 🔥 Always curious about new tools, frameworks, and best practices
 - 🎯 Goal-driven and focused on growing as a **professional developer**
 
 ---
 
+### What I Build
+
+
+• Backend applications with PHP and Laravel
+• RESTful APIs and authentication systems
+• Role-based access control and permissions
+• Payment gateway integrations
+• Real-time chat and broadcasting features
+• E-commerce and booking platforms
+• Admin dashboards and management systems
+• Database-driven web applications
+
 ### 🛠️ Tech Stack  
 
 
 Frontend   : HTML • CSS • JavaScript • React <br>
-Backend    : PHP • Laravel • Node.js (exploring) <br>
+Backend    : PHP • Laravel • Node.js <br>
 Database   : MySQL • Firebase <br>
 Tools      : Git • GitHub • VS Code <br>
 
