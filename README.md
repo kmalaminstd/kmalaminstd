@@ -22,14 +22,14 @@ I specialize in PHP and Laravel development, with hands-on experience building R
 ### What I Build
 
 
-• Backend applications with PHP and Laravel
-• RESTful APIs and authentication systems
-• Role-based access control and permissions
-• Payment gateway integrations
-• Real-time chat and broadcasting features
-• E-commerce and booking platforms
-• Admin dashboards and management systems
-• Database-driven web applications
+• Backend applications with PHP and Laravel <br>
+• RESTful APIs and authentication systems <br>
+• Role-based access control and permissions <br>
+• Payment gateway integrations <br>
+• Real-time chat and broadcasting features <br>
+• E-commerce and booking platforms <br>
+• Admin dashboards and management systems <br>
+• Database-driven web applications <br>
 
 ### 🛠️ Tech Stack  
 
